@@ -1,2 +1,2 @@
 # Task5
-I make a UI of Travel booking website in which I use some animations with help of prototyping.
+I make a UI of Travel booking website in which I use some animations with help of prototyping. I design only 5 screens. First screen is Splash screen that shows animations and we'll be transferred to Sign in page where we get option of Sign up and then we landed on Sign up screen. After that Home Page where I use scroll animation both vertical and horizontal, from there, I designed Flight booking screen and we get transfer there after clicking on Flight icon showed on Home page. Flight booking page is my last screen.
